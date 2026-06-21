@@ -1,2 +1,14 @@
 # huatihuifixture-hub
-HTML page archive and documentation
+
+自动发布文件目录
+
+本项目用于存档页面文件，便于长期保留和检查。
+
+## 页面保存
+
+- HTML 文件按任务生成
+- README 用于记录仓库用途
+
+## 任务说明
+
+页面会按发布任务逐步生成，仓库仅保存最终文件。
